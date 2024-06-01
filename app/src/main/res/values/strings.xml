@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CampusConnect</string>
+    <string name="campus_connect"><![CDATA[<Campus_Connect>]]></string>
+    <string name="meeting_id">Meeting Id</string>
+    <string name="create_new_meeting">Create New Meeting</string>
+    <string name="join_meeting">Join Meeting</string>
+</resources>
